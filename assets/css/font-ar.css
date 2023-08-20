@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'cairo';
+    src: url('../fonts/Cairo/Cairo-Regular.woff2');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'cairo';
+    src: url('../fonts/Cairo/Cairo-Medium.woff2');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'cairo';
+    src: url('../fonts/Cairo/Cairo-Bold.woff2');
+    font-weight: 900;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+}
